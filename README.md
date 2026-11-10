@@ -3,20 +3,20 @@
 ### REG.NO: 212224240163
 ### Date:04-11-2026
 
-### AIM:
+## AIM:
 To Implement Linear and Polynomial Trend Estiamtion Using Python.
 
-### ALGORITHM:
-Import necessary libraries (NumPy, Matplotlib)
+## ALGORITHM:
+1. Import necessary libraries (NumPy, Matplotlib)
 
-Load the dataset
+2. Load the dataset
 
-Calculate the linear trend values using least square method
+3. Calculate the linear trend values using least square method
 
-Calculate the polynomial trend values using least square method
+4. Calculate the polynomial trend values using least square method
 
-End the program
-### PROGRAM:
+4. End the program
+## PROGRAM:
 A - LINEAR TREND ESTIMATION
 ```
 import numpy as np
@@ -82,7 +82,7 @@ plt.show()
 print("Coefficients:", coeff)
 print("First 5 Polynomial Trend Values:", trend[:5])
 ```
-### OUTPUT
+## OUTPUT
 A - LINEAR TREND ESTIMATION
 
 <img width="996" height="470" alt="download" src="https://github.com/user-attachments/assets/946b7c8c-a139-4c77-8851-12dd87448916" />
@@ -93,5 +93,5 @@ B- POLYNOMIAL TREND ESTIMATION
 <img width="996" height="470" alt="download" src="https://github.com/user-attachments/assets/6bdcb1ea-7483-4278-926e-d5f04854684a" />
 
 
-### RESULT:
+## RESULT:
 Thus the python program for linear and Polynomial Trend Estiamtion has been executed successfully.
